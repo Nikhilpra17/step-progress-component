@@ -8,7 +8,7 @@ To install the Checkout Stepper component, you can use npm or yarn:
 
 ```bash
 npm install checkout-stepper
-
+```
 
 ## Usage
 To use the Checkout Stepper component in your React project, import it and pass the required props.
